@@ -1,24 +1,27 @@
-Campus Buddy Chatbot
+# AI-Powered Campus Assistant
 
-Problem Statement
-Students often face difficulty finding quick information regarding admissions, courses, fees, college timings, and contact details.
+## SDG
+SDG 4: Quality Education
 
-Project Objective
-To develop a chatbot that provides instant responses to common student queries.
-Solution Description
+## Problem Statement
+Students often struggle to find information about admissions, courses, fees, timings, and contact details.
 
-Campus Buddy is a chatbot developed using Botpress. It provides information about admissions, courses, fees, college timings, and contact details through a structured conversation flow. It also includes a fallback response for unsupported queries.
+## Solution
+Campus Buddy is an AI-powered chatbot that provides instant responses to student queries.
 
-Features
+## Features
 - Admission Information
-- Course Information
+- Course Details
 - Fee Information
 - College Timings
-- Contact Details
-- Fallback Response
+- Contact Information
 
-Future Scope
-- AI-powered responses
-- Voice interaction
-- Multilingual support
-- Integration with college databases
+## Technology Stack
+- Botpress
+- AI Concepts
+- GitHub
+
+## Future Scope
+- Voice Support
+- Multilingual Support
+- College Database Integration
